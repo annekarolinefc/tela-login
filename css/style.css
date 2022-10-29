@@ -1,7 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Rokkitt:wght@700&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     border: 0;
 
     box-sizing: border-box;
+}
+
+body{
+    background-color: #F8EFEF;
+    max-width: 1600px;
+    height: 1200px;
+}
+
+main{
+    width: 1057px;
+    height: 708px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    width: 608px;
+    background-color: #FFFFFF;
+}
+
+.info .title{
+    font-family: Rokkitt, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 64px;
+    margin-bottom: 15px;
+}
+.info .text{
+    font-family: Rokkitt, sans-serif;
+    font-size: 16px;
+    font-weight:400;
+    margin-bottom: 52px;
+}
+.input{
+    font-family: Mulish, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 25px;
+    width: 430px;
+    height: 73px;
+    border: 1px solid #CAD6E4;
+    border-radius: 5px;
+}
+
+.password-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 16px;
+}
+.password-button span{
+    font-family: Mulish, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #0C6787;
+}
+.password-button .btn{
+    font-family: Mulish, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #046586;
+    margin-bottom: 55px;
+}
+.image{
+    width: 449px;
+    height: 807px;
+    background-image: url("../imagem/background-image.png");
+    background-color: #cccccc;
+}
+
+.line{
+    height: 1px;
+    width: 430px;
+    background-color: #CAD6E4;
+}
+
+.text-password{
+    font-family: Mulish, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.butons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
 }

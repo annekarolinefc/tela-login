@@ -1,7 +1,8 @@
-# Título do Projeto
+# Tela de Login
 
+Protótipo disponibilizado:
 
-![Capa do Projeto](./imagens/day_1521.png)
+![Capa do Projeto](./imagem/day_1097.png)
 
 # Sobre o Projeto
 
@@ -11,7 +12,7 @@ A interface feita nesse projeto foi uma **tela de login**, com caracteristicas d
 
 O protótipo está disponível [nesse link](https://uidesigndaily.com/posts/figma-log-in-authentication-sign-up-modal-pop-card-day-1097).
 
-Caso deseja ver a versão final da implementação da **tela de login**, basta acessar [esse link](https://tela-login-sigma.vercel.app/)
+Caso deseja ver a versão final da implementação da **tela de login**, basta acessar [esse link](https://tela-login-sigma.vercel.app/).
 
 # Índice/Sumário
 
@@ -53,7 +54,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
     <tr>
     <td align="center">
 	  	<a href="https://github.com/annekarolinefc">
-			<img src="ft_Anne.jpg" width="100px;" alt="Anne Karoline"/>
+			<img src="imagem/ft_Anne.jpg" width="100px;" alt="Anne Karoline"/>
 			<br />
 			<sub><b>Anne K. F. Carmo</b></sub>
 		</a>
